@@ -1,5 +1,5 @@
 # mikrostator-nv
-Mikrostator use node js
+Mikrostator using nodejs
 
 how to:
 - change default ip 192.168.88.1 with your mikrotik ip
